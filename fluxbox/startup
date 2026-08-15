@@ -1,0 +1,5 @@
+#!/bin/sh
+feh --bg-fill /home/user/Downloads/gripen.jpg &
+picom &
+conky -c ~/.config/conky/conky.conf &
+exec fluxbox

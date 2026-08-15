@@ -1,0 +1,50 @@
+* {
+    bg: #000000;
+    fg: #ffffff;
+}
+
+window {
+    background-color: @bg;
+    border: 2px;
+    border-color: @fg;
+    padding: 4px;
+}
+
+mainbox {
+    background-color: @bg;
+    border: 0px;
+    padding: 8px;
+}
+
+inputbar {
+    background-color: @bg;
+    text-color: @fg;
+    border: 0px;
+    padding: 6px;
+    children: [ entry ];
+}
+
+entry {
+    background-color: @bg;
+    text-color: @fg;
+    placeholder-color: @fg;
+}
+
+listview {
+    background-color: @bg;
+    border: 0px;
+    lines: 8;
+}
+
+element {
+    background-color: @bg;
+    text-color: @fg;
+    border: 0px;
+    padding: 6px;
+}
+
+element selected {
+    background-color: @fg;
+    text-color: @bg;
+    border: 0px;
+}

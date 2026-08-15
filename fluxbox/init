@@ -1,0 +1,15 @@
+session.screen0.toolbar.visible:	true
+session.screen0.toolbar.placement:	TopCenter
+session.screen0.toolbar.widthPercent:	100
+session.screen0.toolbar.tools: battery, clock
+session.screen0.slit.placement:	RightBottom
+session.screen0.slit.direction:	Vertical
+session.screen0.tabs.usePixmap:	false
+session.screen0.battery.type:	acpi
+session.screen0.iconbar.mode: None
+session.screen0.workspaces:	4
+session.screen0.focusModel:	ClickToFocus
+session.screen0.clickRaises:	true
+session.screen0.defaultDeco:	NORMAL
+session.styleFile: /home/user/.fluxbox/styles/BlackWhite
+session.configVersion:	13
