@@ -74,6 +74,7 @@
     acpi
     nnn
     git
+    gh
     curl
   ];
 
