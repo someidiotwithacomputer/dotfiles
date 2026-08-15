@@ -10,6 +10,6 @@ session.screen0.iconbar.mode: None
 session.screen0.workspaces:	4
 session.screen0.focusModel:	ClickToFocus
 session.screen0.clickRaises:	true
-session.screen0.defaultDeco:	NORMAL
+session.screen0.defaultDeco:	BORDER
 session.styleFile: /home/user/.fluxbox/styles/BlackWhite
 session.configVersion:	13
